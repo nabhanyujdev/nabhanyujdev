@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🔗 [Network Reliability Analyzer](https://network-reliability-analyser.vercel.app/)
 - 🔗 [LMS Insight Engine](https://lms-insight-engine.onrender.com/)
@@ -20,7 +20,7 @@
   
 ---
 
-## 🧠 Skills
+## Skills
 
 -  Data Analytics using AI
 - Python & Machine Learning
