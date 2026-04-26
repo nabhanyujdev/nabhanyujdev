@@ -17,14 +17,14 @@
 
 - Azure 
 - Prompt Engineering/RAG
-- Basics of CyberSec
+  
 ---
 
 ## 🧠 Skills
 
 -  Data Analytics using AI
 - Python & Machine Learning
-- C++/Java
+- C++/Java/JS
   
 ---
 
