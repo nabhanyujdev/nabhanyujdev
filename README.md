@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nabhanyu 👋
 
-<!--
-**nabhanyujdev/nabhanyujdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🧠 Interested in Human Behaviour and Decision Systems, Philosophy, Agentic AI and Cloud Systems
+🎙️ Public Speaker at heart 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🔗 [Network Reliability Analyzer](https://network-reliability-analyser.vercel.app/)
+- 🔗 [LMS Insight Engine](https://lms-insight-engine.onrender.com/)
+
+---
+
+## Currently learning
+
+- Azure 
+- Prompt Engineering/RAG
+- Basics of CyberSec
+---
+
+## 🧠 Skills
+
+-  Data Analytics using AI
+- Python & Machine Learning
+- C++/Java
+  
+---
+
+## 📫 Connect with me
+
+- LinkedIn: 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nabhanyu-joshi-412257313)
+- GitHub: you're already here 😄
